@@ -1,0 +1,8 @@
+typescript,
+react,
+node.js,
+sql,
+database,
+python,
+c++,
+c(programming language)

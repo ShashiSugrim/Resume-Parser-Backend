@@ -1,0 +1,10 @@
+shashi sugrim
+student at queens college
+skills
+- typescript
+- react
+- node
+- c++
+- java
+- python3
+- sql
